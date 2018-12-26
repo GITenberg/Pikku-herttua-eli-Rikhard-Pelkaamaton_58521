@@ -1,5 +1,8 @@
 _repo: Pikku-herttua-eli-Rikhard-Pelkaamaton_58521
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58521#Pikku-herttua-eli-Rikhard-Pelkaamaton
 gutenberg_issued: '2018-12-22'
 gutenberg_type: Text
 identifiers:
